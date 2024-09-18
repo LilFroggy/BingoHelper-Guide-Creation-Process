@@ -1,7 +1,7 @@
 # GuiItem Step
 GuiItem steps are considered complete when either:
 1. ``itemIndex``, ``has``, and ``doesntHave`` are all nullish but ``guiName`` matches the player's current container name.
-2. The item with index ``itemIndex`` in the the gui named ``guiName`` has lore that includes the string ``has`` but does not include the string ``doesntHave``.
+2. The item with index ``itemIndex`` in the the gui named ``guiName`` has lore that includes the string ``has`` but does not include the string ``doesntHave`` (if ``has`` or ``doesntHave`` is nullish, its check is ignored).
 
 ## Example:
 ```js
