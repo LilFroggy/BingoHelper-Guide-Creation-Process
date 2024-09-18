@@ -1,5 +1,5 @@
 # Guides
-Guides are a collection of step objects.
+Guides are objects with a collection of steps (more objects) and a few properties that .
 
 ## Example:
 ```js
@@ -9,7 +9,7 @@ Guides are a collection of step objects.
     "data": {
         "stepIndex": 0,
         "steps": [
-
+            // Put steps here
         ]
     }
 }
