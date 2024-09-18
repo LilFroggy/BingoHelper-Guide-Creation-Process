@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Sell Step
 Sell steps are considered complete when the user has no items in their inventory with an id specified in the ``items`` property.
 
