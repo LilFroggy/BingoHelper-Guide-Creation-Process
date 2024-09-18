@@ -1,5 +1,5 @@
 # Guides
-Guides are a collection of steps.
+Guides are a collection of [steps](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#steps).
 
 ### Structure:
 ```js
