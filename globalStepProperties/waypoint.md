@@ -8,7 +8,7 @@ The waypoint step property is a gobal step property (it can be specified on any 
     "list": [ // array of waypoints that are displayed one at a time
         { // waypoint #1
             "text": "Wheat", // name of waypoint #1
-            "position": [ // array with location for waypoint #1
+            "position": [ location array for waypoint #1
                 42, // x-coordinate for waypoint #1
                 70, // y-coordinate for waypoint #2
                 -123 // z-coordinate for waypoint #2
@@ -17,7 +17,7 @@ The waypoint step property is a gobal step property (it can be specified on any 
         },
         { // waypoint #2
             "text": "Wheat", // name of waypoint #2
-            "position": [ // array with location for waypoint #2
+            "position": [ // location array for waypoint #2
                 47, // x-coordinate for waypoint #2
                 71, // y-coordinate for waypoint #2
                 -137 // z-coordinate for waypoint #2
