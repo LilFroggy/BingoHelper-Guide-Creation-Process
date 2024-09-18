@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Coins Step
 Coins steps are considered complete when the sum of the user's bank and purse is >= the amount specified in the ``target`` property.
 
