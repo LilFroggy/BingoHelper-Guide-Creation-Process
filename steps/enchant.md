@@ -8,7 +8,7 @@ Enchant steps are considered complete when every item in the ``items`` property 
     "instruction": "Enchant items", // tell user what to do
     "items": {
         "GOLD_AXE": { // item #1 to enchant (skyblock id)
-            "enchants": [ // array of enchants to go on the gold axe
+            "enchants": [ // array of desired enchants on gold axe
                 "Efficiency V",
                 "Silk Touch I"
             ],
