@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Buy Step
 Buy steps are considered complete when the user has bought the desired amount of every item specified in the ``items`` property.
 
