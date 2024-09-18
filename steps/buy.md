@@ -7,12 +7,12 @@ Buy steps are considered complete when the user has reached the desired target f
     "type": "buy",
     "instruction": "Buy Rookie Hoe &b%1%\nBuy Red Mushrooms &b%2%",
     "items": {
-        "ROOKIE_HOE": { // item #1 (Skyblock ID)
+        "ROOKIE_HOE": { // item #1 (skyblock id)
             "count": 0, // # bought
             "target": 1, // # to buy
             "done": false // status
         },
-        "RED_MUSHROOM": { // item #2 (Skyblock ID)
+        "RED_MUSHROOM": { // item #2 (skyblock id)
             "count": 0, // # bought
             "target": 24, // # to buy
             "done": false // status
