@@ -30,5 +30,8 @@ Buy steps are considered complete when the user has bought the desired amount of
 - command (String)
 - clientCommand (String)
 
+> [!NOTE]
+> Items listed in the ``items`` property are highlighted in menus: green = buying will not put you over the target; yellow = will put you over target.
+
 > [!TIP]
 > You can use ``%1%`` in the instruction to display the user's progress for item #1, ``%2%`` for item #2 progress and so on.
