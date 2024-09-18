@@ -31,4 +31,4 @@ Buy steps are considered complete when the user has reached the desired target f
 - clientCommand (String)
 
 > [!TIP]
-> Items listed in the ``items`` property are highlighted in menus where they can be sold (npc shops, trade menu, etc.).
+> You can use ``%1%`` in the instruction to display the user's progress for item #1; ``%2%`` for item #2 and so on.
