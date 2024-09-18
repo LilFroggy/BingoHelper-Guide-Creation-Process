@@ -1,10 +1,10 @@
 # Guides
 Guides are a collection of steps.
 
-## Example:
+## Structure:
 ```js
 {
-    "name": "Empty Guide",
+    "name": "Guide Name",
     "version": 1,
     "data": {
         "stepIndex": 0,
@@ -16,4 +16,16 @@ Guides are a collection of steps.
 ```
 Use the format above to create and edit guides.
 
-# Required 
+### Example:
+```js
+{
+    "name": "Guide Name",
+    "version": 1,
+    "data": {
+        "stepIndex": 0,
+        "steps": [
+            // Put steps here
+        ]
+    }
+}
+```
