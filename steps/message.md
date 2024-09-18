@@ -10,11 +10,11 @@ Message steps are considered complete when the message specified in the ``criter
 }
 ```
 ### Required Properties:
-- type String
-- instruction String
-- criteria String
+- type (String)
+- instruction (String)
+- criteria (String)
 
 ### Optional Properties:
-- waypoint object
-- command String
-- clientCommand String
+- waypoint (object)
+- command (String)
+- clientCommand (String)
