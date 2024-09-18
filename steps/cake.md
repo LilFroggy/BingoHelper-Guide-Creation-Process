@@ -21,4 +21,4 @@ Cake steps are considered complete when the length of the ``eaten`` property is 
 
 
 > [!TIP]
-> You can use **%cakes%** to reference the current number of unique cakes eaten in the instruction.
+> You can use ``%cakes%`` to reference the current number of unique cakes eaten in the instruction.
