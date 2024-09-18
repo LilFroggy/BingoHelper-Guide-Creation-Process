@@ -1,4 +1,4 @@
-# Message Step
+# Area Step
 Area steps are considered complete when the area specified in the ``area`` property matches the area in tab.
 
 ## Example:
