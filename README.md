@@ -24,7 +24,11 @@ Use the format above to create and edit guides.
     "data": {
         "stepIndex": 0,
         "steps": [
-            // Put steps here
+            {
+                "type": "message",
+                "instruction": "Run /warp hub",
+                "criteria": "Warping..."
+            }
         ]
     }
 }
