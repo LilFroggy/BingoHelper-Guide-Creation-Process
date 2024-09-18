@@ -48,3 +48,5 @@ Steps are objects that contain information about what needs to be done in order 
 [Message](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/message.md#message-step)
 
 [Cake](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/cake.md#cake-step)
+
+[Sell](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/sell.md#sell-step)
