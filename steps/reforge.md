@@ -35,4 +35,4 @@ Reforge steps are considered complete when every item in the ``items`` property 
 - clientCommand (String)
 
 > [!NOTE]
-> Items listed in the ``items`` property are highlighted in the player's inventory while the reforge menu is open if that item has not been in the reforge slot with the desired reforge and an item is not currently being reforged.
+> Items listed in the ``items`` property are highlighted in the player's inventory while the reforge menu is open if that item has not been in the reforge slot with an acceptable reforge and an item is not currently being reforged.
