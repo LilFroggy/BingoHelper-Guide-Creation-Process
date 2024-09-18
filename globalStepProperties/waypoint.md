@@ -30,38 +30,38 @@ The waypoint step property is a gobal step property—it can be specified on any
 }
 ```
 ### Example:
-```js
+```md
 {
     "type": "skill",
     "instruction": "Unlock Farming 7",
     "skill": "farming",
     "level": 7,
-    "waypoint": {
-        "beam": true,
-        "list": [
-            {
-                "text": "Wheat",
-                "position": [
-                    42,
-                    70,
-                    -123
-                ],
-                "radius": 4
-            },
-            {
-                "text": "Wheat",
-                "position": [
-                    47,
-                    71,
-                    -137
-                ],
-                "radius": 3
-            }
-      
-        ],
-        "index": 0
-    }
-}
++    "waypoint": {
++        "beam": true,
++        "list": [
++            {
++                "text": "Wheat",
++                "position": [
++                    42,
++                    70,
++                    -123
++                ],
++                "radius": 4
++            },
++            {
++                "text": "Wheat",
++                "position": [
++                    47,
++                    71,
++                    -137
++                ],
++                "radius": 3
++            }
++      
++        ],
++        "index": 0
++    }
++}
 ```
 > [!NOTE]
 > Even though this is a skill step type, we could apply the same waypoint property to **ANY** type of step.
