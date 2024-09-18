@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # SubArea Step
 SubArea steps are considered complete when the sub area specified in the ``subArea`` property matches the subArea on the scoreboard.
 
