@@ -35,4 +35,4 @@ Enchant steps are considered complete when every item in the ``items`` property 
 - clientCommand (String)
 
 > [!NOTE]
-> Items listed in the ``items`` property are highlighted in the player's inventory while in enchantment table menu is open if that item has not been fully enchanted and an item is not currently being enchanted. Desired enchants that are not present on the item being enchanted are highlighted.
+> Items listed in the ``items`` property are highlighted in the player's inventory while the enchantment table menu is open if that item has not been fully enchanted and an item is not currently being enchanted. Desired enchants that are not present on the item being enchanted are highlighted.
