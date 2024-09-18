@@ -42,8 +42,8 @@ The waypoint step property is a gobal step property—it can be specified on any
 +            {                                                                                                                                                                                                  
 +                "text": "Wheat",                                                                                                                                                        
 +                "position": [                                                                                                                                    
-+                    42,                                                                                
-+                    70,                                                                                        
++                    42,                                                                                            
++                    70,                                                                                                                        
 +                    -123                                                                                                
 +                ],                                                                                                                        
 +                "radius": 4                                                                                                                        
