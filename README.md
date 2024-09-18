@@ -48,3 +48,8 @@ Steps are objects that contain information about what needs to be done in order 
 - [Message](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/message.md#message-step)
 - [Cake](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/cake.md#cake-step)
 - [Sell](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/sell.md#sell-step)
+- [Buy](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/buy.md#buy-step)
+- [Coins](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/coins.md#coins-step)
+- [Has](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/has.md#has-step)
+- [Area](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/area.md#area-step)
+- [subArea](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/subArea.md#SubArea-step)
