@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # GuiClickSlot Step
 GuiClickSlot steps are considered complete when the user clicks on the slot with index ``slotIndex`` in the gui named ``guiName``.
 
