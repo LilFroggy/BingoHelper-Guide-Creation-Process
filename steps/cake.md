@@ -1,9 +1,6 @@
 # Cake Step
 Cake steps are considered complete when the length of the ``eaten`` property is >= 14.
 
-> [!TIP]
-> You can use **%cakes%** to reference the current number of unique cakes eaten in the instruction.
-
 ## Example:
 ```js
 {
@@ -21,3 +18,7 @@ Cake steps are considered complete when the length of the ``eaten`` property is 
 - waypoint (object)
 - command (String)
 - clientCommand (String)
+
+
+> [!TIP]
+> You can use **%cakes%** to reference the current number of unique cakes eaten in the instruction.
