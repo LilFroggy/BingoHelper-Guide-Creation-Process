@@ -37,7 +37,7 @@ Reforge steps are considered complete when every item in the ``items`` property 
 > [!NOTE]
 > Items listed in the ``items`` property are highlighted in the player's inventory while the reforge menu is open if that item has not been in the reforge slot with an acceptable reforge and an item is not currently being reforged.
 
-> [!NOTE]
+> [!WARNING]
 > Attempts to reforge (clicks) are cancelled if the following statements are true:
 > 1. The current item being reforged is specified in ``items``
 > 2. The current reforge item has one of its accepted reforges
