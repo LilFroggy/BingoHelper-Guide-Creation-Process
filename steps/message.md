@@ -1,2 +1,2 @@
 # Message Step
-Message steps trigger when the step criteria is found in chat
+Message steps are considered compelted when the message specified under ``step.criteria`` is found in chat.
