@@ -15,7 +15,7 @@ Cake steps are considered complete when the length of the ``eaten`` property is 
 - eaten (Array)
 
 ### Optional Properties:
-- waypoint (object)
+- waypoint (Object)
 - command (String)
 - clientCommand (String)
 
