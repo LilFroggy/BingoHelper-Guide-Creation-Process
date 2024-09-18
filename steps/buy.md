@@ -17,6 +17,7 @@ Buy steps are considered complete when the user has reached the desired target f
             "target": 24, // # to buy
             "done": false // status
         }
+        // add more items here...
 }
 ```
 ### Required Properties:
