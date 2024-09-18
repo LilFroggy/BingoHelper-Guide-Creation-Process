@@ -3,7 +3,7 @@ The command step property is a gobal step property—it can be specified on any 
 
 ### Structure:
 ```js
-"command": "/warp hub" // command goes here
+"command": "/warp hub" // replace /warp hub with your command
 ```
 ### Example:
 ```js
