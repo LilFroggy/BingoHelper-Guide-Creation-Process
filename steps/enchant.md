@@ -21,6 +21,7 @@ Enchant steps are considered complete when every item in the ``items`` property 
             ],
             "done": false
         }
+        // add more items to enchant here...
     }
 }
 ```
