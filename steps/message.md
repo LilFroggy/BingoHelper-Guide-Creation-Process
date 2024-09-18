@@ -5,7 +5,7 @@ Message steps are considered compelted when the message specified under ``step.c
 ```js
 {
     "type": "message", // set the step type to message
-    "instruction": "Run /warp hub", // prompt user to do something that results in the criteria message appearing in chat
+    "instruction": "Run /warp hub", // tell the user what they should do
     "criteria": "Warping..." // Waring... appears in chat when users run /warp hub
 }
 ```
