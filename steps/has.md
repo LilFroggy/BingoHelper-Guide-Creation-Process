@@ -29,7 +29,7 @@ Has steps are considered complete when the user has had every item, with its spe
 ### Optional Properties:
 - [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
-- clientCommand (String)
+- [clientCommand](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/clientCommand.md#clientcommand-step-property) (String)
 
 > [!TIP]
 > You can use ``%1%`` in the instruction to display the user's progress for item #1, ``%2%`` for item #2 and so on.
