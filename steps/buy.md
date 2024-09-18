@@ -12,7 +12,7 @@ Buy steps are considered complete when the user has bought the desired amount of
             "target": 1, // # to buy
             "done": false // status
         },
-        "RED_MUSHROOM": { // item #2 (skyblock id)
+        "RED_MUSHROOM": { // item #2
             "count": 0,
             "target": 24,
             "done": false
