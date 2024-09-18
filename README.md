@@ -14,7 +14,7 @@ Guides are a collection of steps.
     }
 }
 ```
-Use the format above to create and edit guides.
+Use the format above to create and edit guides by deleting and adding steps to the ``steps`` array under the ``data`` property.
 
 ### Example:
 ```js
