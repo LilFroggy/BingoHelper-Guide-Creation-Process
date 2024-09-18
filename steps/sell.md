@@ -1,5 +1,5 @@
 # Cake Step
-Sell steps are considered complete when the user has no items matching any of the IDs listed in the ``items`` property.
+Sell steps are considered complete when the user has no items in their inventory (or armor slots) matching any id listed in the ``items`` property.
 
 ## Example:
 ```js
