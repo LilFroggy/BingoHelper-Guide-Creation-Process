@@ -6,7 +6,7 @@ SubArea steps are considered complete when the sub area specified in the ``subAr
 {
     "type": "subArea", // set the step type to subArea
     "instruction": "Go to the gunpowder mines", // tell user what to do
-    "subArea": "Gunpowder Mines" // sub area located on scoreboard
+    "subArea": "Gunpowder Mines" // sub-area located on scoreboard
 }
 ```
 ### Required Properties:
