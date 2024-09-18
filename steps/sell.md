@@ -4,7 +4,7 @@ Sell steps are considered complete when the user has no items in their inventory
 ## Example:
 ```js
 {
-        "type": "sell",
+        "type": "sell", // set the step type to sell
         "instruction": "Sell materials",
         "items": [
                 "HAY_BLOCK", // skyblock id (String)
