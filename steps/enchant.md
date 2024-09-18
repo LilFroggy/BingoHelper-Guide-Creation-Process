@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Enchant Step
 Enchant steps are considered complete when every item in the ``items`` property has been in the enchanting slot in the enchantment table with all of the desired enchants on it.
 
