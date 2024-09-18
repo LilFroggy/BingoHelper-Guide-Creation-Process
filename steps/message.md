@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Message Step
 Message steps are considered complete when a message appears in chat that starts with the text specified in the ``criteria`` property.
 
