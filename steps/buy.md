@@ -30,5 +30,5 @@ Buy steps are considered complete when the user has reached the desired target f
 - command (String)
 - clientCommand (String)
 
-> [!NOTE]
+> [!TIP]
 > Items listed in the ``items`` property are highlighted in menus where they can be sold (npc shops, trade menu, etc.).
