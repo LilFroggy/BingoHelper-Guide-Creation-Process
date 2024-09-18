@@ -1,5 +1,5 @@
 # Guides
-Guides are objects that contain metadata about the guide and a collection of [steps](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#steps).
+Guides are objects with metadata and a collection of [steps](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#steps).
 
 ### Structure:
 ```js
