@@ -5,8 +5,8 @@ Cake steps are considered complete when the length of the ``eaten`` property is 
 ```js
 {
     "type": "cake", // set the step type to cake
-    "instruction": "Eat cakes &b%cakes%", // tell the user what they should do
-    "eaten": [] // create an array to store eaten cakes
+    "instruction": "Eat cakes &b%cakes%", // tell user what to do
+    "eaten": [] // array to store eaten cakes
 }
 ```
 ### Required Properties:
