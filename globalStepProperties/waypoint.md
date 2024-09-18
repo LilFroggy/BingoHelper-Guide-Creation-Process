@@ -63,5 +63,5 @@ The waypoint step property is a gobal step property (it can be specified on any 
     }
 }
 ```
-> [!REMINDER]
+> [!NOTE]
 > even though this is a skill step type, we could apply the same waypoint property to ANY type of step.
