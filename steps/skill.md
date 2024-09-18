@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Skill Step
 Skill steps are considered complete when the user reaches level ``level`` or higher in the ``skill`` skill.
 
