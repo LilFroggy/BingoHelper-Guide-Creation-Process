@@ -19,6 +19,5 @@ Cake steps are considered complete when the length of the ``eaten`` property is 
 - command (String)
 - clientCommand (String)
 
-
 > [!TIP]
 > You can use ``%cakes%`` in the instruction to display the user's progress.
