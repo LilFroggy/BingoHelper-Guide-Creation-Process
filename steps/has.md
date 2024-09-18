@@ -4,7 +4,7 @@ Has steps are considered complete when the user has had every item, with its spe
 ## Example:
 ```js
 {
-    "type": "has", // set type to has
+    "type": "has", // set the step type to has
     "instruction": "Obtain Cobblestone &b%1%\nObtain Stone &b%2%", // tell user what to do
     "items": {
         "COBBLESTONE": { // item #1 (skyblock id)
