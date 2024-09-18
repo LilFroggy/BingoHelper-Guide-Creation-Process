@@ -20,3 +20,6 @@ Coins steps are considered complete when the sum of the user's bank and purse is
 - waypoint (Object)
 - command (String)
 - clientCommand (String)
+
+> [!TIP]
+> You can use ``%coins%`` in the instruction to display the user's progress.
