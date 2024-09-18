@@ -30,10 +30,10 @@ Use the format above to create and edit guides.
                 "criteria": "Warping..."
             },
             {
-                "type": "collection", // set the step type to collection
-                "instruction": "Unlock Lapis Lazuli Collection 4", // tell user what to do
-                "collection": "lapis_lazuli", // name of the collection
-                "level": 4 // desired level in that collection
+                "type": "collection",
+                "instruction": "Unlock Lapis Lazuli Collection 4",
+                "collection": "lapis_lazuli",
+                "level": 4
             }
             // add more steps here...
         ]
