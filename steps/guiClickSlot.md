@@ -20,7 +20,7 @@ GuiClickSlot steps are considered complete when the user clicks on the slot with
 ### Optional Properties:
 - [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
-- clientCommand (String)
+- [clientCommand](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/clientCommand.md#clientcommand-step-property) (String)
 
 > [!NOTE]
 > The slot with index ``slotIndex`` is highlighted in the gui named ``guiName``.
