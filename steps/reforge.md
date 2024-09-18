@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Reforge Step
 Reforge steps are considered complete when every item in the ``items`` property has been in the reforge slot in the reforge menu with one of its accepted reforges.
 
