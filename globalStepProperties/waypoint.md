@@ -10,8 +10,8 @@ The waypoint step property is a gobal step property—it can be specified on any
             "text": "Wheat", // name of waypoint #1
             "position": [
                 42, // x-coordinate for waypoint #1
-                70, // y-coordinate for waypoint #2
-                -123 // z-coordinate for waypoint #2
+                70, // y-coordinate for waypoint #1
+                -123 // z-coordinate for waypoint #1
             ],
             "radius": 4 // If you are closer than 4 blocks to waypoint #1, it will disappear and waypoint #2 will appear
         },
