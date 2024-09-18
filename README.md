@@ -54,3 +54,8 @@ Steps are objects that contain information about what needs to be done in order 
 - [Area](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/area.md#area-step)
 - [subArea](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/subArea.md#subarea-step)
 - [Enchant](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/enchant.md#enchant-step)
+- [Reforge](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/reforge.md#reforge-step)
+- [guiItem](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/guiItem.md#guiitem-step)
+- [guiClickSlot](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/guiClickSlot.md#guiclickslot-step)
+- [Skill](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/skill.md#skill-step)
+- [Collection](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/collection.md#collection-step)
