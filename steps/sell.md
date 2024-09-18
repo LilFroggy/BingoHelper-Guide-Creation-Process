@@ -25,6 +25,3 @@ Sell steps are considered complete when the user has no items in their inventory
 - waypoint (Object)
 - command (String)
 - clientCommand (String)
-
-> [!WARNING]
-> You can use ``%cakes%`` in the instruction to display the user's progress.
