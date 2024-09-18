@@ -1,5 +1,5 @@
 # Buy Step
-Buy steps are considered complete when the user has reached the desired target for every item specified in the ``items`` property.
+Buy steps are considered complete when the user has bought the desired amount of every item specified in the ``items`` property.
 
 ## Example:
 ```js
