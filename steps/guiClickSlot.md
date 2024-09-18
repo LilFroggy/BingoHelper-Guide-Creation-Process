@@ -20,3 +20,6 @@ GuiClickSlot steps are considered complete when the user clicks on the slot with
 - waypoint (Object)
 - command (String)
 - clientCommand (String)
+
+> [!NOTE]
+> The slot with index ``slotIndex`` is highlighted in the gui named ``guiName``.
