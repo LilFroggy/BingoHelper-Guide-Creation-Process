@@ -1,5 +1,5 @@
 # Command Step Property
-The command step property is a gobal step property—it can be specified on any step.
+The command step property is a gobal step property—it can be specified on any step. The command step suggests a command to run to help the user complete their current step.
 
 ### Structure:
 ```js
