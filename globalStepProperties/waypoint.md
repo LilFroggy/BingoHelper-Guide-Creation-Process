@@ -30,12 +30,12 @@ The waypoint step property is a gobal step property—it can be specified on any
 }
 ```
 ### Example:
-```markdown
-{
-    "type": "skill",
-    "instruction": "Unlock Farming 7",
-    "skill": "farming",
-    "level": 7,
+```diff
+={
+=    "type": "skill",
+=    "instruction": "Unlock Farming 7",
+=    "skill": "farming",
+=    "level": 7,
 +    "waypoint": {
 +        "beam": true,
 +        "list": [
