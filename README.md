@@ -14,7 +14,7 @@ Guides are a collection of [steps](https://github.com/LilFroggy/BingoHelper-Guid
     }
 }
 ```
-Use the [format](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md###Structure) to create and edit guides by adding and deleting steps in the ``steps`` array under the ``data`` property.
+Create and edit guides by adding and deleting steps in the ``steps`` array under the ``data`` property using [this](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md###Structure) structure.
 
 ### Example:
 ```js
