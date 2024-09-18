@@ -31,7 +31,7 @@ Buy steps are considered complete when the user has bought the desired amount of
 - clientCommand (String)
 
 > [!NOTE]
-> Items listed in the ``items`` property are highlighted in menus.
+> Items listed in the ``items`` property are highlighted in menus:
 > - **Green Highlight**: buying that amount will not put you over the target
 > - **Yellow Highlight**: buying that amount will put you over target.
 > 
