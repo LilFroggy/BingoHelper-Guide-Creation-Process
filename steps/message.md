@@ -4,8 +4,8 @@ Message steps are considered compelted when the message specified under ``step.c
 ## Example:
 ```js
 {
-  "type": "message",
-  "instruction": "Run /warp hub",
-  "criteria": "Warping..."
+    "type": "message",
+    "instruction": "Run /warp hub",
+    "criteria": "Warping..."
 }
 ```
