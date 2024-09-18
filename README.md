@@ -68,3 +68,5 @@ To import custom guides:
 
 > [!WARNING]
 > You will want to disable ``Auto Import New Guides`` in settings so as not to overwrite your custom guide.
+
+[^ Top](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#guides)
