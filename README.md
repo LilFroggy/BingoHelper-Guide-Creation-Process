@@ -16,7 +16,7 @@ Guides are objects with metadata and a collection of [steps](https://github.com/
 ```
 
 # Steps
-Steps are objects that contain information about what needs to be done in order to progress through a [guide](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#Guides). A list of step types can be found below.
+Steps are objects that contain information about what needs to be done in order to progress to the next step in a [guide](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#Guides). A list of step types can be found below.
 
 ### Step Types:
 - [message](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/message.md#message-step)
