@@ -6,7 +6,7 @@ Sell steps are considered complete when the user has no items in their inventory
 {
     "type": "sell", // set the step type to sell
     "instruction": "Sell items", // tell user what to do
-    "items": [
+    "items": [ // array of items to sell (not have in inventory)
         "HAY_BLOCK", // (skyblock id)
         "WHEAT",
         "SEEDS"
