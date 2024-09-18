@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Collection Step
 Collection steps are considered complete when the user reaches level ``level`` or higher in the ``collection`` collection.
 
