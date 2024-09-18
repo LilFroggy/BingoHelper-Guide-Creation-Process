@@ -10,12 +10,12 @@ Buy steps are considered complete when the user has reached the desired target f
         "ROOKIE_HOE": { // item #1 (Skyblock ID)
             "count": 0, // # bought
             "target": 1, // # to buy
-            "done": false // item #1 status
+            "done": false // status
         },
         "RED_MUSHROOM": { // item #2 (Skyblock ID)
             "count": 0, // # bought
             "target": 24, // # to buy
-            "done": false // item #2 status
+            "done": false // status
         }
 }
 ```
