@@ -38,4 +38,4 @@ Buy steps are considered complete when the user has bought the desired amount of
 > The largest quantity that does not put you over the target is highlighted in the shop trading options menu.
 
 > [!TIP]
-> You can use ``%1%`` in the instruction to display the user's progress for item #1, ``%2%`` for item #2 progress and so on.
+> You can use ``%1%`` in the instruction to display the user's progress for item #1, ``%2%`` for item #2 and so on.
