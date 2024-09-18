@@ -1,18 +1,21 @@
 # Cake Step
 Cake steps are considered complete when the length of the ``eaten`` property is >= 14.
 
+> [!TIP]
+> You can use **%cakes%** to reference the current number of unique cakes eaten in the instruction.
+
 ## Example:
 ```js
 {
-    "type": "message", // set the step type to message
-    "instruction": "Run /warp hub", // tell the user what they should do
-    "criteria": "Warping..." // Waring... appears in chat when users run /warp hub
+    "type": "cake", // set the step type to cake
+    "instruction": "Eat cakes &b%cakes%", // tell the user what they should do
+    "eaten": [] // create an array to store eaten cakes
 }
 ```
 ### Required Properties:
 - type (String)
 - instruction (String)
-- criteria (String)
+- eaten (Array)
 
 ### Optional Properties:
 - waypoint (object)
