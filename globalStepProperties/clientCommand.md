@@ -3,7 +3,7 @@ The clientCommand step property is a gobal step property—it can be specified o
 
 ### Structure:
 ```js
-"clientCommand": "/bh skip" // client-command goes here
+"clientCommand": "/bh skip" // replace /bh skip with your client-command
 ```
 ### Example:
 ```js
