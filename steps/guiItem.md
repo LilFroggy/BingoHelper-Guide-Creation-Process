@@ -26,4 +26,4 @@ GuiItem steps are considered complete when either:
 - doesntHave (String)
 - [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
-- clientCommand (String)
+- [clientCommand](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/clientCommand.md#clientcommand-step-property) (String)
