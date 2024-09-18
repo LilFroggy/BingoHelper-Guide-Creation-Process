@@ -36,7 +36,7 @@ The waypoint step property is a gobal step property—it can be specified on any
 =    "instruction": "Unlock Farming 7",
 =    "skill": "farming",
 =    "level": 7,
-+    "waypoint": {                                                                                                 
++    "waypoint": {                                                                                                                                      
 +        "beam": true,
 +        "list": [
 +            {
