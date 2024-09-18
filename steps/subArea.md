@@ -16,6 +16,6 @@ SubArea steps are considered complete when the sub area specified in the ``subAr
 - subArea (String)
 
 ### Optional Properties:
-- waypoint (Object)
+- [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
 - clientCommand (String)
