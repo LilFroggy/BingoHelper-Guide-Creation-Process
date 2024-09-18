@@ -31,7 +31,7 @@ Reforge steps are considered complete when every item in the ``items`` property 
 - items (Object)
 
 ### Optional Properties:
-- waypoint (Object)
+- [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
 - clientCommand (String)
 
