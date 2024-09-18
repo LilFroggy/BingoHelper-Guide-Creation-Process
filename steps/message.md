@@ -15,6 +15,6 @@ Message steps are considered complete when the message specified in the ``criter
 - criteria (String)
 
 ### Optional Properties:
-- waypoint (object)
+- waypoint (Object)
 - command (String)
 - clientCommand (String)
