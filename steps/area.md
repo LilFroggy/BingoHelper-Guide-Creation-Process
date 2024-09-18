@@ -1,4 +1,4 @@
-[Go Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md)
+[<- Back to Step Types](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md)
 # Area Step
 Area steps are considered complete when the area specified in the ``area`` property matches the area in tab.
 
