@@ -1,5 +1,5 @@
 # Reforge Step
-Reforge steps are considered complete when every item in the ``items`` property has been in the reforge slot in the reforge menu with its desired reforge.
+Reforge steps are considered complete when every item in the ``items`` property has been in the reforge slot in the reforge menu with one of its accepted reforges.
 
 ## Example:
 ```js
@@ -9,7 +9,8 @@ Reforge steps are considered complete when every item in the ``items`` property 
     "items": {
         "END_SWORD": { // item #1 (skyblock id)
             "reforges": [ // array of acceptable reforges
-                "Sharp"
+                "Sharp",
+                "Spicy"
             ],
             "done": false
         },
