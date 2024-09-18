@@ -19,3 +19,5 @@ Area steps are considered complete when the area specified in the ``area`` prope
 - command (String)
 - clientCommand (String)
 
+> [!TIP]
+> The area for dungeons is called ``Dungeon``. The rest of the areas can be seen in tab.
