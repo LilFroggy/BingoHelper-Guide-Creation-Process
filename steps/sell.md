@@ -1,9 +1,6 @@
 # Sell Step
 Sell steps are considered complete when the user has no items in their inventory with an id specified in the ``items`` property.
 
-> [!NOTE]
-> Items listed in the ``items`` array are highlighted in menus where they can be sold (npc shops, trade menu, etc.).
-
 ## Example:
 ```js
 {
@@ -16,6 +13,9 @@ Sell steps are considered complete when the user has no items in their inventory
         ]
 }
 ```
+> [!NOTE]
+> Items listed in the ``items`` array are highlighted in menus where they can be sold (npc shops, trade menu, etc.).
+
 ### Required Properties:
 - type (String)
 - instruction (String)
