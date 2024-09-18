@@ -1,5 +1,5 @@
 # Message Step
-Message steps are considered complete when the message specified under ``step.criteria`` is found in chat.
+Message steps are considered complete when the message specified in the ``criteria`` property appears in chat.
 
 ## Example:
 ```js
