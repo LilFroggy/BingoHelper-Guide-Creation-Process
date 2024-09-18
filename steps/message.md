@@ -9,3 +9,12 @@ Message steps are considered compelted when the message specified under ``step.c
     "criteria": "Warping..." // Waring... appears in chat when users run /warp hub
 }
 ```
+### Required Properties:
+- type
+- instruction
+- criteria
+
+### Optional Properties:
+- waypoint
+- command
+- clientCommand
