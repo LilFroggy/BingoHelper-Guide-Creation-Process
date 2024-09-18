@@ -45,4 +45,5 @@ Use the format above to create and edit guides by adding and deleting steps in t
 Steps are objects that contain information about what needs to be done in order to advance to the next step in the guide. A list of all step types can be found below:
 
 [Message](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/message.md#message-step)
+
 [Cake](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/cake.md#cake-step)
