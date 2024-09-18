@@ -19,7 +19,7 @@ Use the format above to create and edit guides.
 ### Example:
 ```js
 {
-    "name": "Guide Name",
+    "name": "Example Guide",
     "version": 1,
     "data": {
         "stepIndex": 0,
