@@ -32,8 +32,9 @@ Buy steps are considered complete when the user has bought the desired amount of
 
 > [!NOTE]
 > Items listed in the ``items`` property are highlighted in menus.
-> - Green: buying that amount will not put you over the target
-> - Yellow: buying that amount will put you over target.
+> - **Green Highlight**: buying that amount will not put you over the target
+> - **Yellow Highlight**: buying that amount will put you over target.
+> The largest quantity that does not put you over the target is highlighted in the shop trading options menu.
 
 > [!TIP]
 > You can use ``%1%`` in the instruction to display the user's progress for item #1, ``%2%`` for item #2 progress and so on.
