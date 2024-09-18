@@ -41,7 +41,7 @@ Use the format above to create and edit guides by adding and deleting steps in t
 }
 ```
 
-# What is a Step?
+# Steps
 Steps are objects that contain information about what needs to be done in order to advance to the next step in a guide. A list of step types can be found below.
 
 ### Step Types:
