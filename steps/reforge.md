@@ -39,6 +39,6 @@ Reforge steps are considered complete when every item in the ``items`` property 
 
 > [!NOTE]
 > Attempts to reforge (clicks) are cancelled if the following statements are true:
-> 1. the current item being reforged is specified in ``items``
-> 2. the current reforge item has one of its accepted reforges
-> 3. the previous or current step is a reforge step
+> 1. The current item being reforged is specified in ``items``
+> 2. The current reforge item has one of its accepted reforges
+> 3. The current or previous step is a reforge step
