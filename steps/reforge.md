@@ -33,7 +33,7 @@ Reforge steps are considered complete when every item in the ``items`` property 
 ### Optional Properties:
 - [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
-- clientCommand (String)
+- [clientCommand](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/clientCommand.md#clientcommand-step-property) (String)
 
 > [!NOTE]
 > Items listed in the ``items`` property are highlighted in the player's inventory while the reforge menu is open if that item has not been in the reforge slot with an acceptable reforge and an item is not currently being reforged.
