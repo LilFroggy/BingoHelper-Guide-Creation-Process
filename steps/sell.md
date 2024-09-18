@@ -1,12 +1,16 @@
 # Cake Step
-Cake steps are considered complete when the length of the ``eaten`` property is >= 14.
+Sell steps are considered complete when the user has no items matching any of the IDs listed in the ``items`` property.
 
 ## Example:
 ```js
 {
-    "type": "cake", // set the step type to cake
-    "instruction": "Eat cakes &b%cakes%", // tell the user what they should do
-    "eaten": [] // create an array to store eaten cakes
+        "type": "sell",
+        "instruction": "Sell materials",
+        "items": [
+                "HAY_BLOCK", // skyblock id
+                "WHEAT",
+                "SEEDS"
+        ]
 }
 ```
 ### Required Properties:
