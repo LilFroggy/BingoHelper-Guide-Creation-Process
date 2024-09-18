@@ -1,5 +1,5 @@
 # Cake Step
-Cake steps are considered complete when the length of the ``eaten`` property >= 14.
+Cake steps are considered complete when the length of the ``eaten`` property is >= 14.
 
 ## Example:
 ```js
