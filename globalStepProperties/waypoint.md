@@ -1,5 +1,5 @@
 # Waypoint Step Property
-The waypoint step property is a gobal step property (it can be specified on any step regardless of type).
+The waypoint step property is a gobal step property (it can be specified on any step).
 
 ### Structure:
 ```js
