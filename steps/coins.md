@@ -18,7 +18,7 @@ Coins steps are considered complete when the sum of the user's bank and purse is
 - target (Number)
 
 ### Optional Properties:
-- waypoint (Object)
+- [waypoint](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/globalStepProperties/waypoint.md#waypoint-step-property) (Object)
 - command (String)
 - clientCommand (String)
 
