@@ -35,7 +35,7 @@ Steps are objects that contain information about what needs to be done in order 
 - [collection](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/steps/collection.md#collection-step)
 
 # Creating a Guide
-Create and edit guides by adding or deleting steps in the ``steps`` array under the ``data`` property of a guide object. Guides should follow [this](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md###Structure) format.
+Create guides by adding or deleting steps in the ``steps`` array under the ``data`` property of a guide object. Guides should follow [this](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md###Structure) format.
 
 ### Example:
 ```js
@@ -61,3 +61,7 @@ Create and edit guides by adding or deleting steps in the ``steps`` array under 
     }
 }
 ```
+# Importing Guides
+To import custom guides:
+1. Copy the guide to your clipboard
+2. Run ``/bh import``
