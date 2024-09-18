@@ -4,7 +4,7 @@ Buy steps are considered complete when the user has bought the desired amount of
 ## Example:
 ```js
 {
-    "type": "buy",
+    "type": "buy", // set the step type to buy
     "instruction": "Buy Rookie Hoe &b%1%\nBuy Red Mushrooms &b%2%",
     "items": {
         "ROOKIE_HOE": { // item #1 (skyblock id)
