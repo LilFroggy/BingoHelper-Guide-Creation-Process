@@ -9,7 +9,7 @@ Guides are objects that contain info about the guide and a collection of [steps]
     "data": {
         "stepIndex": 0,
         "steps": [
-            // Put steps here
+            // Steps go here
         ]
     }
 }
