@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # GuiItem Step
 GuiItem steps are considered complete when either:
 1. ``itemIndex``, ``has``, and ``doesntHave`` are all nullish but ``guiName`` matches the player's current container name.
