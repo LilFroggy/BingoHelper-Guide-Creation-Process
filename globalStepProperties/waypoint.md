@@ -6,18 +6,18 @@ The waypoint step property is a gobal step property (it can be specified on any 
 "waypoint": {
     "beam": true, // whether or not the waypoints have beams
     "list": [ // array of waypoints that are displayed one at a time
-        { // waypoint #1
+        {
             "text": "Wheat", // name of waypoint #1
-            "position": [ location array for waypoint #1
+            "position": [
                 42, // x-coordinate for waypoint #1
                 70, // y-coordinate for waypoint #2
                 -123 // z-coordinate for waypoint #2
             ],
             "radius": 4 // If you are closer than 4 blocks to waypoint #1, it will disappear and waypoint #2 will appear
         },
-        { // waypoint #2
+        {
             "text": "Wheat", // name of waypoint #2
-            "position": [ // location array for waypoint #2
+            "position": [
                 47, // x-coordinate for waypoint #2
                 71, // y-coordinate for waypoint #2
                 -137 // z-coordinate for waypoint #2
