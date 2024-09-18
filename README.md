@@ -66,5 +66,5 @@ To import custom guides:
 1. Copy the guide to your clipboard
 2. Run ``/bh import``
 
-> [!NOTE]
+> [!WARNING]
 > You will want to disable ``Auto Import New Guides`` in settings so as not to overwrite your custom guide.
