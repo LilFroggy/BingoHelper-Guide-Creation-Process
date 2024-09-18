@@ -1,10 +1,10 @@
 # Guides
-Guides are objects with a collection of steps (more objects) and a few properties that .
+Guides are a collection of steps.
 
 ## Example:
 ```js
 {
-    "name": "Example Guide",
+    "name": "Empty Guide",
     "version": 1,
     "data": {
         "stepIndex": 0,
@@ -14,3 +14,6 @@ Guides are objects with a collection of steps (more objects) and a few propertie
     }
 }
 ```
+Use the format above to create and edit guides.
+
+# Required 
