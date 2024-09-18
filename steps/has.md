@@ -1,3 +1,4 @@
+[< Back](https://github.com/LilFroggy/BingoHelper-Guide-Creation-Process/blob/master/README.md#step-types)
 # Has Step
 Has steps are considered complete when the user has had every item, with its specified amount, in the ``items`` property in their inventory.
 
