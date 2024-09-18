@@ -1,4 +1,4 @@
-# Guides
+# How to Create a Guide
 Guides are a collection of steps.
 
 ## Structure:
