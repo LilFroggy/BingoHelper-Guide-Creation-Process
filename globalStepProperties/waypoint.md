@@ -4,7 +4,7 @@ The waypoint step property is a gobal step property (it can be specified on any 
 ### Structure:
 ```js
 "waypoint": {
-    "beam": true, // should waypoint(s) have beams?
+    "beam": true, // whether or not the waypoints have beams
     "list": [ // array of waypoints
         { // waypoint #1
             "text": "Wheat", // name of waypoint #1
