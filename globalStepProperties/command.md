@@ -1,5 +1,5 @@
 # Command Step Property
-The command step property is a gobal step property—it can be specified on any step. The command step suggests a command for the user to run to help them complete their current step.
+The command step property is a gobal step property—it can be specified on any step. The command step property suggests a command for the user to run to help them complete their current step. This differs from the clientCommand step property because it sends the command server-side whereas clientCommand runs the command client-side.
 
 ### Structure:
 ```js
@@ -14,5 +14,3 @@ The command step property is a gobal step property—it can be specified on any 
     "command": "/warp hub"
 }
 ```
-> [!NOTE]
-> Even though this is a message step type, we could apply the same command property to **ANY** type of step.
