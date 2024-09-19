@@ -24,6 +24,7 @@ The waypoint step property is a gobal step property—it can be specified on any
             ],
             "radius": 3 // If you are closer than 3 blocks to waypoint #2, it will disappear but reappear if you are 3 or more blocks away because it is the last waypoint in this list
         }
+        // add more waypoints here...
   
     ],
     "index": 0 // Specifies which waypoint to display. Automatically increase (goes to the next waypoint) when the player is within the specified radius of the current waypoint.
