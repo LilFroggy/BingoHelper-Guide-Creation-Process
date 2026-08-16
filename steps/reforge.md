@@ -8,19 +8,13 @@ Reforge steps are considered complete when every item in the ``items`` property 
     "type": "reforge", // set the step type to reforge
     "instruction": "Reforge items", // tell user what to do
     "items": {
-        "END_SWORD": { // item #1 to reforge (skyblock id)
-            "reforges": [ // array of acceptable reforges
-                "Sharp",
-                "Spicy"
-            ],
-            "done": false
-        },
-        "MUSHROOM_HELMET": { // item #2 to reforge (skyblock id)
-            "reforges": [
-                "Fierce"
-            ],
-            "done": false
-        }
+        "END_SWORD": [ // array of acceptable reforges
+            "Sharp",
+            "Spicy"
+        ],
+        "MUSHROOM_HELMET": [
+            "Fierce"
+        ]
         // add more items to reforge here...
     }
 }
